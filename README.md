@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TG-92
 - 👀 I’m interested in Coding, Music Production, Video Games, Movies, Music
-- 🌱 I’m currently learning Basics about Repositorys
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Basics about Git, AWS, Python.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me just drop me a Message here :)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I´m playing Drums since i´ve been 8 years old.
 
 <!---
 TG-92/TG-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
