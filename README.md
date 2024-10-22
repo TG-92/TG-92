@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TG-92
 - 👀 I’m interested in Coding, Music Production, Video Games, Movies, Music
 - 🌱 I’m currently learning Basics about Git, AWS, Python.
-- 💻 I’m looking to collaborate on anything!
+- 💻 I’m looking to collaborate on anything html // javascript // css related 
 - 📫 How to reach me just drop me a Message here :)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I´m playing Drums since i´ve been 8 years old.
